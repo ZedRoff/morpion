@@ -1,0 +1,11 @@
+{
+    "title": "Morpion V 1.0.0",
+    "authors": "ZedRoff et TheHeroFiction",
+    "description": "Jeu du morpion", 
+    "version": "1.0.0",
+    "fonts": ["Verdana", "Helvatica"],
+    "width_button": 12,
+    "height_button": 6,
+    "main_color": "#0B243B",
+    "color_button": "#2e2e2e"
+}
